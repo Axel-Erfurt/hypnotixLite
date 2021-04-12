@@ -1,0 +1,33 @@
+American Classics,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+Battery Pop,http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+BNC (Black News Channel),http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+Cheddar,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
+Cine Life (Magnolia Pictures),http://magnolia-redbox.amagi.tv/playlist.m3u8
+Comedy,http://comedy-redbox.amagi.tv/playlist.m3u8
+CONtv,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxcontv/CDN/playlist.m3u8
+CONtv Anime,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
+Fail Army,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
+FamilyFeud,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8
+Film Hub,http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+FilmRise Classic TV,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
+FilmRise Forensic Files,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+FilmRise Free Movies,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+FilmRise Mysteries,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
+FilmRise Sci-Fi,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8
+FilmRise Unsolved Mysteries,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+FilmRise Western,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
+Food 52,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
+Gravitas Movies,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+Global Got Talent,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/playlist.m3u8
+Hi-Yah!,http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+Journy,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8
+Kabillion,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+Maverick Movies,http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+NewsNOW from FOX,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Nosey,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8
+Now This,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8
+One America News,https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+Shout! Factory TV,http://shoutfactory-redbox.amagi.tv/playlist.m3u8
+The Pet Collective,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
+Real Nosey,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxrealnosey/CDN/playlist.m3u8
+Spotlight,https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8

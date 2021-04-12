@@ -1,0 +1,13 @@
+D5TV,http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+DBM,https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
+Generations TV,https://edge10.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8?spark=28dc12a7-48b5-4d36-9b5b-c2deb9b70bcb&token=
+Nancy Web TV,https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
+NRJ Hits,https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
+Obosso TV,https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=
+D5 TV (FR),http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+DBM (FR),https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
+Generations TV (FR),https://edge10.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8?spark=28dc12a7-48b5-4d36-9b5b-c2deb9b70bcb&token=
+Gong (FR),http://51.254.215.79/appflux/gong/playlist.m3u8
+Nancy Web TV (FR),https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
+NRJ Hits (FR),https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
+Obosso TV (FR),https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=

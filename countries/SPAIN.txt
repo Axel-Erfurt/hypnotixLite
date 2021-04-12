@@ -1,0 +1,161 @@
++24,http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0.m3u8
+101 Tele Antequera,https://limited22.todostreaming.es/live/101tv-AntequeraHD.m3u8
+101TV Malaga,https://limited22.todostreaming.es/live/101tv-web101tv.m3u8
+24 Horas,https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+25 TV,https://originlive2.shooowit.net/25televisiolive/smil:channel1.smil/playlist.m3u8
+28 Kanala,https://5940924978228.streamlock.net/8157/8157/.m3u8
+3/24,https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1296000.m3u8
+Canal 33,https://directes-tv-int.ccma.cat/int/ngrp:c33_web/chunklist_b630067.m3u8
+7 Murcia,https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+8 La Marina TV,https://ns3063900.ip-5-39-65.eu/hls/canal24.m3u8
+9 la Loma TV,https://9laloma.tv/live.m3u8
+A Punt,https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
+Alacanti TV,https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+Alcarria TV,http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+Aragon TV,https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+ATV Andorra,https://videos.rtva.ad/live/rtva/playlist.m3u8
+BailÃ©n TV,http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
+Beteve,https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0&playSessionId=381edbc5-f6df-0566-8c73-b767fb340d6
+Bon Dia TV,https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist.m3u8
+Cadena Elite,https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
+CampiÃ±a Sur TV,https://cdn01.yowi.tv/4131RI73I9/master.m3u8
+Canal 10 Emporda,http://ventdelnord.tv:8080/escala/directe.m3u8
+Canal 2000 La Solana,http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
+Canal 25 Barbastro,http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+Canal 33 Madrid,https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
+Canal 4,http://149.202.68.178:1935/live/peprecasens/manifest.m3u8
+Canal 4 Mancha Centro,https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+Canal 45 Andujar,https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
+Canal 56,https://videos.canal56.com/directe/stream/index.m3u8
+Canal CoÃ­n,http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8
+Canal DoÃ±ana,https://secure5.todostreaming.es/live/division-alm.m3u8
+Canal Extremadura,https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+Canal Malaga,http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+Canal Parlamento,http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
+Canal San Roque,https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
+Canal Sierra de CÃ¡diz,http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
+Canal Super 3,https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8
+Canal Sur AndalucÃ­a,https://originlive2.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
+Canal Taronja Osona,https://taronjavic.streaming-pro.com/hls/vic.m3u8
+Canalcosta TV,https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/WXP6YT/playlist.m3u8
+CMM Castilla La Mancha,http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/index-s32.m3u8
+Condavision,http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8
+Congreso de los Diputados 1,https://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8
+Congreso de los Diputados 2,https://congresodirecto-f.akamaihd.net/i/congreso2_1@72033/master.m3u8
+Congreso de los Diputados 3,https://congresodirecto-f.akamaihd.net/i/congreso3_1@72034/master.m3u8
+Congreso de los Diputados 4,https://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/master.m3u8
+Congreso de los Diputados 5,https://congresodirecto-f.akamaihd.net/i/congreso5_1@51923/master.m3u8
+Costa Noroeste TV,https://limited08.todostreaming.es/live/noroestetv-livestream.m3u8
+CostadelSol TV,https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
+CÃ¡ceres TevÃ©,https://ce2019100818001.dnssw.net/hls/ceres.m3u8
+CÃ³rdoba TV,https://5b38ce71f1f00.streamlock.net/8376/8376/master.m3u8
+Diez TV,https://streaming.cloud.innovasur.es/mmj/index.m3u8
+Distrito TV Madrid,https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+Durangaldeko Telebista,https://cdn01.yowi.tv/AAAAAAAAAA/master.m3u8
+DÃ©jate de Historias TV,https://cdn01.yowi.tv/GGGGGGGGGG/master.m3u8
+El Sembrador TV Europa,https://zypelive-lh.akamaihd.net/i/default_1@745572/master.m3u8
+EiTB 1,http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+EiTB 2,https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
+El Toro TV,https://live1-eltorotv.flumotion.com/playlist.m3u8
+Elche 7 TV,https://streaming.elche7tv.es/hls/canal2.m3u8
+EsAsturiasTV,https://59c8647978660.streamlock.net/directo_7/directo_7/playlist.m3u8
+Esplugues Televisio,https://vodingesta1083.cdnmedia.tv/video/etv/lcnhpgm134311015ceb4c0c-e8af_H,700,1500,.MP4.urlset/master.m3u8
+Estepona TV,https://5b38ce71f1f00.streamlock.net/8122/8122/chunklist_w310432579.m3u8
+Esport 3,https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+EuroLatina TV,https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+EuropaPress TV,https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
+Fibracat TV,https://cdn-02.fibracat.cat/fibracattv/index.m3u8
+Fion TV,http://stream.fion.es:1936/live/smil:fion.smil/master.m3u8
+Goiena,https://zuzenean.goienamedia.eus:8443/telebista.m3u8
+Grup TelevisiÃ³,https://common01.todostreaming.es/live/ribera-livestream.m3u8
+Hamaika Telebista,https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
+Hermes TV,https://cdn01.yowi.tv/1H23S04G4M/hermesvigo.m3u8
+Huesca TV,https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
+ImÃ¡s TV,https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+InteralmerÃ­a TV,https://interalmeria.tv/directo/live.m3u8
+Intercomarcal TV,https://str.intercomarcal.com/hls/tvisd.m3u8
+Islatel,https://zone.controlstreams.com:5443/LiveApp/streams/islatel.m3u8
+Junta Castilla y LeÃ³n,https://16escalones-live2.flumotion.com/chunks.m3u8
+La 1,https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+La 2,https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+La 7,https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+La 8 Burgos,https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
+La Moncloa (Presidente),https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=y3-IxQxNk4XjlfJDtBjIh7tfO628d9gbkd010uKioms&output=ginkIjHWeyffMLRZNMVovht3RnH_feedjshkMm7sr14&channel=D1tXjvcs_5NeEEMxP6mrmSggh3Uyu3kE5jyqGlgCZ4A&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
+Lancelot TV,http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+Lebrija TV,https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8
+Levante TV,https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
+M95 Marbella,https://limited2.todostreaming.es/live/m95-livestream.m3u8
+Maestrat TV,https://stream.maestrat.tv/hls/stream.m3u8
+Mar TV,http://iptv.btpba1.es.network.do:8080/martv-web/video.m3u8
+Marbella TV,https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
+Mijas 3.40 TV,https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
+MÃ­rame TV,https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+Mola TV,http://ventdelnord.tv:8080/mola/directe.m3u8
+mtmad 24h,https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+Navarra TV,https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
+Negocios TV,https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
+Nius,https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
+Noroeste TV,https://5b38ce71f1f00.streamlock.net/8046/8046/playlist.m3u8
+NORTEvision,http://amaru.dyndns.org:8835/0.m3u8
+Oizmendi Telebista,https://5940924978228.streamlock.net/8161/8161/master.m3u8
+Onda 15 TV,https://5b38ce71f1f00.streamlock.net/8028/8028/master.m3u8
+Onda Algeciras TV,https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+Onda Cadiz,https://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
+Onda Madrid (Webradio),http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
+Onda Valencia,https://streaming-audio-1.magentalabs.es:19360/ondavalencia/ondavalencia.m3u8
+Parlamento de Navarra,https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
+PequeRadio TV,http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+Popular TV Cantabria,https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+Popular TV Melilla,https://5940924978228.streamlock.net/8009/8009/master.m3u8
+PTV Cordoba,http://149.91.98.146:1935/cordoba/stream/master.m3u8
+PTV Malaga,http://149.91.98.146:1935/live/stream/playlist.m3u8
+Punt 3 Vall UixÃ³,https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+RiberaTV,http://common01.todostreaming.es/live/ribera-livestream.m3u8
+RT Spain,https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+RTV Vida EspaÃ±a,https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+RTVCE,https://cdnlive.shooowit.net/rtvcelive/smil:channel2.smil/playlist.m3u8
+Sal TelevisiÃ³n,https://www.tdtchannels.com/stream/saltv.m3u8
+Sevilla FC TV,https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
+Solidaria TV EspaÃ±a,https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+Sophia TV,https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
+Taroteame TV,http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
+Tarotcanal,https://live2.tarotcanal.com/live/livestream/index.m3u8
+TEF,https://cdn01.yowi.tv/36MLCJRAR2/master.m3u8
+Tele 7,https://59c8647978660.streamlock.net/8128/8128/playlist.m3u8
+TeleganÃ©s,https://cdn01.yowi.tv/P18V9163O7/master.m3u8
+TeleGilena,https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
+Teleonuba,https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/605oPXx3/playlist.m3u8
+TeleRibera,http://37.187.7.106/teleribera/live.m3u8
+TeleSafor,http://video.telesafor.com/hls/video.m3u8
+Telesur Madrid,https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8
+Television Aranda,https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
+TelevisiÃ³n de San Vicente,https://cdn01.yowi.tv/L4Y5ILBY62/master.m3u8
+Television Galicia,https://europa-crtvg.flumotion.com/playlist.m3u8
+Televisio Girona,http://ventdelnord.tv:8080/girona/directe.m3u8
+teve.cat,https://www.tdtchannels.com/stream/tevecat.m3u8
+TeVe4,https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
+TorrevisiÃ³n,https://api.new.livestream.com/accounts/2614936/events/1848989/live.m3u8
+Trebujena TV,http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
+Trece TV,https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+Tuya La Janda TV,http://185.210.20.13:8080/0.m3u8
+TV3 Catalunya,https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8
+TV4 La Vall,https://limited09.todostreaming.es/live/tarson-livestream.m3u8
+TV7 Murcia,http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+TV Ferrol,https://directo.tvferrol.es/tv.m3u8
+TV Girona,http://ventdelnord.tv:8080/girona/directe.m3u8
+TV Municipal Cordoba,http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8
+tvA,https://streaming01.gestec-video.com/hls/artequatreTVA.m3u8
+ TVE Canal24,https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+TVE Canarias,https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@303292/master.m3u8
+TVE Catalunya,https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@130182/master.m3u8
+TVG 2,http://events3-crtvg.flumotion.com/playlist.m3u8
+TVG America,http://america-crtvg.flumotion.com/playlist.m3u8
+TVG Cultura,http://cultural-crtvg.flumotion.com/playlist.m3u8
+TVG Europa,http://europa-crtvg.flumotion.com/playlist.m3u8
+TVG Infantil,http://infantil-crtvg.flumotion.com/playlist.m3u8
+TVG Momentos G,http://momentog-crtvg.flumotion.com/playlist.m3u8
+TVG Musigal,http://musigal-crtvg.flumotion.com/playlist.m3u8
+Une VinalopÃ³,http://78.41.83.88:8880/hls/unesd.m3u8
+Univers TV,https://5c21f7ec1999d.streamlock.net/universvalencia/universvalencia/playlist.m3u8
+Urola Telebista,https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8
+VisiÃ³n 6 TV,https://secure3.todostreaming.es/live/visionseis-livestream.m3u8

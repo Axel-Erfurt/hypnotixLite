@@ -1,0 +1,25 @@
+GEM 24B,https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
+GEM Academy,https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
+GEM Arabia,https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist.m3u8
+GEM AZ,https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist.m3u8
+GEM Bollywood,https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
+GEM Classic,https://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
+GEM Drama,https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+GEM Fit,https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist.m3u8
+GEM Food,https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist.m3u8
+GEM Film,https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist.m3u8
+GEM Junior,https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+GEM Kids,https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+GEM Latido,https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist.m3u8
+GEM Life,https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist.m3u8
+GEM MAX,https://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8
+GEM Mifa,https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
+GEM Modern Economy,https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist.m3u8
+GEM Nature,https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist.m3u8
+GEM Onyx,https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8
+GEM Property,https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist.m3u8
+GEM River,https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
+GEM Rubix,https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
+GEM Series,https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
+GEM Travel,https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist.m3u8
+GEM TV,https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8

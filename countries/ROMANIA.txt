@@ -1,0 +1,59 @@
+6TV,http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END
+Actualitatea TV,http://webmobile.xdev.ro:81/tv4/playlist.m3u8
+Acum TV,http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+Agro TV,http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
+Alfa Media TV,http://webmobile.xdev.ro:81/tv27/playlist.m3u8
+Alfa Omega TV,http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+Antena 1,https://sportbar.biz/lba/123/g9/antena1.m3u8
+Antena Comedy,http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+Antena Cook and PLay,http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
+Antena Monden,http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+B1,http://stream.adunity.com/b1/b1.m3u8
+Bit TV Pascani,http://46.214.146.46:81/tv2/playlist.m3u8
+Bollywood TV Romania,http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+Bollywood Classic Romania,http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+Bucovina TV,http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+Canal 33,https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/chunklist_w1456597134_b680000.m3u8
+Credo TV,http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+Cromtel TV,http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
+Digi 24,http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
+Erdely TV,http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+EST TV,http://89.38.8.130:39435
+Iasi TV Life,http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
+Inedit TV,http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+Infinit TV,http://webmobile.xdev.ro:81/tv6/playlist.m3u8
+Info HD,http://163.172.172.80:8080/hls/InfoHd.m3u8
+Intermedia TV,http://46.4.14.12:9999/intermedia1/playlist.m3u8
+Kapital TV,http://163.172.172.80:8080/hls/livestream.m3u8
+Mooz HD,http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/18.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
+Mooz Dance,http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/18.m3u8/Level(545259)?start=LIVE&end=END
+Mooz Hits,http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/18.m3u8/Level(545259)?start=LIVE&end=END
+Mooz Ro!,http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+Music Channel,https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+Nasul TV,https://5ab29cc78f681.streamlock.net:443/nasultvlive/nasultvlive/playlist.m3u8
+NEst TV,http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+Pro TV News,http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8
+Profit,https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+Realitatea TV,http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+Romania TV,http://ppext.arktv.ro/hls/channel6/adaptive.m3u8
+Sangeorz TV,http://s2.streamnet.ro:8035/stream.flv
+Somax TV,http://webmobile.xdev.ro:81/tv12/playlist.m3u8
+Speranta TV,http://amsix40.streamkit.tv/edge/_definst_/sperantatv_500/chunklist.m3u8
+Stars,http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+Stars Direct,http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+Tezaur TV,http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
+TravelMix,http://89.38.8.131:39520
+TV City,http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
+TV SE,http://89.38.8.130:39419
+TVPlus Suceava,http://85.186.146.34:8080
+TVR 1,http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+TVR HD,http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+TVR 2,http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+TVR 3,http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+TVR Cluj,http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
+TVR Craiova,http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
+TVR Iasi,http://82.208.151.107:8088/high/tvriasi/index.m3u8
+TVR Timisoara,http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
+TVSat,http://89.38.8.130:39443
+UTV,http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
+VP TV,http://89.38.8.130:39437

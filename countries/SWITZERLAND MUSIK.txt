@@ -1,0 +1,8 @@
+Energy TV,https://edge10.vedge.infomaniak.com/livecast/ik:energytv/chunklist_w229962190_b3001080.m3u8?spark=2ef26dd4-6c62-4d52-9dcb-b177d141f032&token=
+LFM TV,https://edge4.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8?spark=cf45faac-ae15-4c71-92c5-6c3527ed8e0f&token=
+Musig24,https://playback2.akamaized.net/streams/16598383_8687407_lsin7mfbawvyji8z19o_1/master.m3u8?dw=14400&hdnts=exp=1605428280~acl=/streams/16598383_8687407_lsin7mfbawvyji8z19o_1/master.m3u8*~hmac=073ce4b0d92471b2f87e3786620b8bc6eb0c98e131334e32ff9394fa72cc3d71
+Radio Pilatus (Webradio),https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+TVM 3,http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+Energy TV (CH),https://edge10.vedge.infomaniak.com/livecast/ik:energytv/chunklist_w229962190_b3001080.m3u8?spark=2ef26dd4-6c62-4d52-9dcb-b177d141f032&token=
+Radio Pilatus (Webradio) (CH),https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+TVM 3 (CH),http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8

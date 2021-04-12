@@ -1,0 +1,47 @@
+Animals Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+Aurora Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+Automoto,https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
+Beaches Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+Country Boy Kid Vids,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
+Classics Channel,https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
+Civilized,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8
+Coronavirus.gov,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8
+Cute Zone,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+Divorce Court,https://44fbc29539b04817bbfc7e40a5b4a1ab.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8
+Docs Channel,https://0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609d9d6344257cbfb6ee4/playlist.m3u8
+Epic Misses & Mayhem,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
+External Ottera,https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us
+FGTV & Funnelvision,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
+Forests Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+Fun Zone,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
+Gameplay,https://5ab2d7093e38404091ca44d800f6c4c4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5d42f01baea0c5699f368901/playlist.m3u8
+Giggle Zone,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
+High Times TV,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8
+Jerry Springer,https://057ed30176c1453da6d54e583b32852b.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7f848f1ff2e1d2555a2/playlist.m3u8
+Judge Karen's Court,https://cb5273f195a147f2bcf23544e4495f66.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7261474f9020c06f9ec/playlist.m3u8
+Lakes Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+Lego Toons,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+Let's Play Minecraft,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
+Lifebae,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8
+Master Builders,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
+Maury,https://43eed3df38d04ed7a3be7cc4ee510b43.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e88458ad7801fa2cfc2e/playlist.m3u8
+Motorcyclist,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
+Mountains Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+Now You Know,https://stitcheraws.unreel.me/wse-node04.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8
+Popcorn Flix Action,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+Recoil TV,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/playlist.m3u8
+Rivers Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+Roblox,https://5ab2d7093e38404091ca44d800f6c4c4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5d42f01baea0c5699f368901/playlist.m3u8
+Shorts Channel,https://b29da26d9a17436eafe339c08e488f33.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609010d552957bf5aa546/playlist.m3u8
+Slimo,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
+Smosh,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8
+Sports News,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf221fad5eeee0f5a40941c/playlist.m3u8
+Steve Wilkos,https://ff025cd3f4b44af9915c7303489f823c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e84c95ee0253b97679d7/playlist.m3u8
+Sunsets Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+Taste It,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8
+Thinknoodles,https://stitcheraws.unreel.me/wse-node04.powr.com/live/5afc810e932c833522744733/playlist.m3u8
+Toy Zone,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
+Trinity & Beyond,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8
+Tropics Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+Wanderluster,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2267fd5eeee0f5a4094c0/playlist.m3u8
+Waterfalls Live,https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8

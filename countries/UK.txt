@@ -1,0 +1,152 @@
+92 News UK,https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+Arise News,http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+BBC One,https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
+BBC News,https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+BBC News 2,http://51.52.156.22:8888/http/004
+BBC Scotland,http://51.52.156.22:8888/http/001
+BBC Four,http://51.52.156.22:8888/http/003
+BBC World News,https://1636691764.rsc.cdn77.org/WDL8DwIhfs3xbaIAjptn1w==,1606031062/LS-ATL-54548-11/index.m3u8
+Bloomberg EU,https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+Bloomberg EU Event,https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+Box Hits,http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+British Muslim TV,plugin://plugin.video.youtube/play/?video_id=emU7EXE0D88
+Calm Piano Music,plugin://plugin.video.youtube/play/?video_id=XULUBg_ZcAU
+Canaf 54,https://stream.ecable.tv/canaf54/tracks-v1a1/mono.m3u8
+CBeebies,http://51.52.156.22:8888/http/003
+CGTN,http://live.cgtn.com/500/prog_index.m3u8
+Channel S,https://ap02.iqplay.tv:8082/chsuk/ch4n3ls/playlist.m3u8
+Cruise1st TV,https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
+Fashion TV,http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
+Filmon 360,https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
+Forces TV,https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
+Hala London,https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
+Horizon Sports,https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+Inspiration TV,https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+ITV,http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+ITV2,http://51.52.156.22:8888/http/005
+Kerrang,http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+Kiss,http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+Kool London Radio (Webradio),http://w11.streamgb.com:1935/kool/kool/playlist.m3u8
+La Muscle TV,https://streamcdn.lamuscle.com/lamtv-origin/smil:monsterworkout-tricepspt1.smil/playlist.m3u8
+Loveworld TV,https://cdn.lwuk.live/live/smil:lwukweb.smil/chunklist_b864000_sleng.m3u8
+Magic,http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+Manoto,https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
+MTA 1,https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+MTA 2,https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
+MTA 3,https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
+Noor TV,https://ls1.serverdump.com/stream3.m3u8
+Press TV,https://live.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
+Pop UK,https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
+Pop MAX,https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+Psychic TV,plugin://plugin.video.youtube/play/?video_id=zMcghqXEgWk
+Relevation TV,https://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/playlist.m3u8
+Sheffield Live 93.2 FM (Webradio),http://tv.sheffieldlive.org/hls/main.m3u8
+RT UK,http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
+Sangat Television,https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
+Sky 1 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
+Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
+Sky News,plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE
+Thane Direct TV,http://51.52.156.22:8888/http/012
+Sonlife UK,https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
+Sports Tonight,http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+Spotlight TV,https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+Sunburn TV,https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
+The Box,http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+Tiny Pop,https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
+Venus TV,https://a.jsrdn.com/rtmp/22690/index.m3u8
+World of Free Sports,https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+***************** UKRAINE  ***********,http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+1 Krivoy Rog,http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+1 Odessa,http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+112 Ukraine,http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
+24 Kanal,http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+34 Kanal,https://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+4 Kanal,http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+5 Kanal,plugin://plugin.video.youtube/play/?video_id=z9IpuPGYfkk
+7 Kanal,http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+A1 Odessa,http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
+Apostrophe TV,plugin://plugin.video.youtube/play/?video_id=3d7ZCdw3ZBI
+Arhat TB,http://arhat.tv/public/720p/index.m3u8
+ATR,http://stream.atr.ua/atr/live/index.m3u8
+BamBarBia TV,http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+BBC Ukraine,plugin://plugin.video.youtube/play/?video_id=e6x1Zokwmyo
+BTB,http://video.vtvplus.com.ua:81/hls/online/index.m3u8
+Centralnyi,http://159.224.182.177:8080/Live_wildcard/stream/playlist.m3u8
+Che Pe Info,http://109.68.40.67/life/magnolia_3/index.m3u8
+Current Time,https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+Chernivtsi Promin,http://langate.tv/promin/live_720/index.m3u8
+CNL Europa,http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
+Donezk TV,http://stream.dn.ua/hls/stream.m3u8
+Duma TV,http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+ECO TV,http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8?codec=mpeg4
+Espreso TV,http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4&app=playlist
+EWTN,http://bogtvhdlive-f.akamaihd.net/i/main_1@79148/master.m3u8
+GIT,https://stream.uagit.tv/gittv.m3u8
+GTV,http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+Hope Channel,https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelUkraine_1@432955/master.m3u8
+HTK,http://stream.ntktv.ua/s/ntk/ntk.m3u8
+HTH,https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
+ID Fashion,https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8?_=1602581479
+IHTEP,https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
+IHTEP+,http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8
+Izmail TV,https://cdn10.live-tv.od.ua:8083/izod/izod-abr-lq/playlist.m3u8
+K1,http://109.68.40.67/life/k1_3/index.m3u8
+Kiew TV,http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?codec=mpeg4
+Kratu,https://cdn10.live-tv.od.ua:8083/kratu/kratu-abr-lq/kratu/kratu-sub/chunks.m3u8
+Lale,http://stream.atr.ua/lale//live/index.m3u8
+M1,http://live.m1.tv/hls/stream.m3u8
+M2,http://live.m2.tv/hls3/stream.m3u8
+Maliatko TV,http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
+Maxxi-TV,http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4
+Micto,http://93.78.206.172:8080/stream3/stream.m3u8
+Millet,http://live.trkmillet.ru/millet/index.m3u8
+MostVideo TV,http://w4.mostvideo.tv/tv/ch1.m3u8
+NewsOne,plugin://plugin.video.youtube/play/?video_id=3e0FsU1N6OQ
+NTA,http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+Olvia Sat Odessa,http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+Oplot,http://ott.inmart.tv:8081/54/index.m3u8
+Oplot 2,http://ott.inmart.tv:8081/17/index.m3u8
+Orbita,http://ftp.orbita.dn.ua/hls/orbita.m3u8
+OTB Galychyna,http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8?codec=mpeg4
+OTV,http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
+Pershiy Zakhidniy,http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+Perviy Delovoy,http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+Perviy Gorodskoy Krivoy,http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+Perviy Gorodskoy Odessa,http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+Pravda TYT,http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+Priamyj,http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4
+Pryamyi,http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+Rabinovich TV,plugin://plugin.video.youtube/play/?video_id=jgaArtPTjws
+Rada,http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4
+Radio Suite,http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
+RAI,http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8?codec=mpeg4&app=playlist
+Reportior Odessa,http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+Rudana,https://live.rudana.com.ua/hls/stream_FHD.m3u8
+Simon,http://hls.simon.ua/live-HD/live/playlist.m3u8
+SK 1,https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr-lq/playlist.m3u8
+Svarogichi,http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+Sonce,http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8?codec=mpeg4
+TBN,http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
+TIS TV,http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+Treti Cifrovoj,http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
+Trofey,https://5db1ab4f970be.streamlock.net/live/smil:trofey.smil/playlist.m3u8
+TV 4,https://meta.vcdn.biz/8d793a90ee6eee73ad26555917e7cc59_megogo/live/hls/u_sid/0/o/71044361/u_uid/0/u_vod/1/u_device/embed_all/u_devicekey/_embed_web/lip/91.97.129.226*asn/type.live/playlist.m3u8
+TV 5 Zaporozhye,http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+TVA Czernowitz,http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+UA Donbass,http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?codec=mpeg4
+UA Transkarpatien,http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8?codec=mpeg4
+UA Krim,http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?codec=mpeg4&app=playlist
+UA Kultur,http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4&app=playlist
+UA Odessa,http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8?codec=mpeg4&app=playlist
+UATV,http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8?codec=mpeg4
+Vozrozhdenie,http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist_w1303998472.m3u8
+Yuzhnaya Volna,http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+Zdorovood  TV Odessa,http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+ZIK,plugin://plugin.video.youtube/play/?video_id=a_3eJgMMBsg
+Z Zaporozhye,https://stream.ztv.zp.ua/hls/live.m3u8
+Box Hits (UK),http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+Kerrang (UK),http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+Kiss (UK),http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+Magic (UK),http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+Spotlight TV (UK),https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+The Box (UK),http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/

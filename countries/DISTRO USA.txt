@@ -1,0 +1,33 @@
+Bollywood TV,https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
+Brit Asia Live (US Eastern),https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
+Brit Asia Live (US Pacific),https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
+Brut.,https://a.jsrdn.com/broadcast/baac3e801e/+0000/c.m3u8
+BYUtv,http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+Channel S (US Eastern),https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
+Channel S (US Pacific),https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0800/c.m3u8
+Cycle World,http://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+Dry Bar Comedy,https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
+ElectricNOW,https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
+Everyday Heroes,https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
+Fashion TV (US Eastern),https://a.jsrdn.com/broadcast/ftv2/-0500/c.m3u8
+Fashion TV (US Pacific),https://a.jsrdn.com/broadcast/ftv2/-0800/c.m3u8
+Field & Stream,http://a.jsrdn.com/broadcast/7536b84786/+0000/high/c.m3u8
+Fighting Spirit,https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
+Gusto TV,https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
+Honor TV,https://a.jsrdn.com/broadcast/d5b48/+0000/high/c.m3u8
+Horizon Sports,https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
+IDG,http://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
+MMA Junkie,http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+Monarch TV,https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
+Motorcyclist,http://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
+Movie Kingdom TV,https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+n TV (US Eastern),https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8
+Pop Star,https://a.jsrdn.com/broadcast/wAlxn4cs/c.m3u8
+Popular Science,http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+Saveur,http://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
+Studio C TV,https://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+The Boat Show TV,https://a.jsrdn.com/broadcast/256ccf645e/+0000/c.m3u8
+The Film Detective TV,https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_640x360.m3u8
+Venus TV (US Eastern),https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
+Venus TV (US Pacific),https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
+World Of Free Sports TV,https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8

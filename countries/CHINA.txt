@@ -1,0 +1,49 @@
+Aniu TV,http://cclive.aniu.tv/live/anzb.m3u8
+Bao Ying,http://jsby.chinashadt.com:2035/live/by2.stream/playlist.m3u8
+CCTV-1,https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
+CCTV-4,https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
+China Business Network,https://w1live.livecdn.yicai.com/live/cbn.m3u8
+CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+Hebei Jinzhou,http://zhjz.chinashadt.com:2036/live/1.stream/playlist.m3u8
+Hong Kong Open TV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+Huanghua,http://hbhh.chinashadt.com:2111/live/hhtv.stream/playlist.m3u8
+Hunan City,http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8
+Hunan TV,http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8
+Huoshan Channel,http://ahhs.chinashadt.com:1936/live/stream:hs1.stream/playlist.m3u8
+Jinju,http://zhjz.chinashadt.com:2036/live/1.stream/chunklist.m3u8
+Jixian Channel 1,http://hblxx.chinashadt.com:2036/live/stream:lx1.stream/playlist.m3u8
+Jixian Channel 2,http://hblxx.chinashadt.com:2036/live/stream:lx2.stream/playlist.m3u8
+Linyi Public Channel,http://hblz.chinashadt.com:1538/live/di3.stream/playlist.m3u8
+Lu Quan 1,http://hblq.chinashadt.com:2036/live/stream:luquan1.stream/playlist.m3u8
+Lu Quan 2,http://hblq.chinashadt.com:2036/live/stream:luquan2.stream/playlist.m3u8
+MASTV 1 Macau,http://stream.mastvnet.com/MSTV/playlist.m3u8
+MASTV 2 Macau,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+Max Financial Media,http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
+Ninghua TV,http://fjnh.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
+Nongan News,http://stream2.jlntv.cn/naxw/sd/live.m3u8
+RTHK TV 31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+RTHK TV 32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_702_av-b.m3u8?sd=10&rebase=on
+Sanming Public Channel 1,http://stream.smntv.cn/smtv1/sd/live.m3u8
+Sanming Public Channel 2,http://stream.smntv.cn/smtv2/sd/live.m3u8
+Sanya News,http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
+Shao Dong,http://hnsd.chinashadt.com:2036/live/stream:shaodong.stream/playlist.m3u8
+Sichuan Movie Channel,http://live.sichuanmianning.com/live/xwpd.m3u8
+TDM Macau,http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+TDM Sports Macau,http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+TDM Info. Macau,http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
+TDM Macau Satelite,http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+Tongren 2,http://gztr.chinashadt.com:2036/live/stream:tr2.stream/playlist.m3u8
+UChannel TV,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+Wan Sheng,http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/chunklist.m3u8
+Wan Zai Channel,http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
+XMTV 1,http://cstvpull.live.wscdns.com/live/xiamen1.flv
+XMTV 2,http://cstvpull.live.wscdns.com/live/xiamen2.flv
+XMTV 3,http://cstvpull.live.wscdns.com/live/xiamen3.flv
+XMTV Star,http://cstvpull.live.wscdns.com/live/xiamen4.flv
+Xuzhou TV 1,http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
+Xuzhou TV 2,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+Yushu TV Jilin 1,http://stream.zhystv.com/yset/sd/live.m3u8
+Yushu TV Jilin 2,http://stream.zhystv.com/ysyt/sd/live.m3u8
+Zanhuang TV,http://hbzz.chinashadt.com:2036/zhibo/4.stream/chunklist.m3u8
+Zhao County TV 1,http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream/playlist.m3u8
+Zhao County TV 2,http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream_360p/playlist.m3u8

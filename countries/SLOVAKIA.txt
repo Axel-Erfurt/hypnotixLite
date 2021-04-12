@@ -1,0 +1,20 @@
+BTV,rtmp://s1.media-planet.sk:80/live/bardejov1
+FashionTV Slovak&Czech,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+JOJ,https://nn.geo.joj.sk/hls/joj-720.m3u8
+JOJ Family,https://nn.geo.joj.sk/hls/family-540.m3u8
+Koice:dnes,http://lb.streaming.sk/tvnasa/stream/playlist.m3u8
+Life.tv,http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
+LocAll,http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+Plus,https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+Raj TV,https://ottst05.flexitv.sk/2827-tv-pc.m3u8
+Senzi TV,http://109.74.144.130/live/senzitest/playlist.m3u8
+Severka TV,http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
+Televizia OSEM,http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+TV Bratislava,plugin://plugin.video.youtube/play/?video_id=sxRzIKnVmfg
+TV Lux,http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
+TV Nové Zámky,http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+TV Povaziy,http://213.181.128.248:8090/tvpovazie-h264.flv
+TV Reduta,rtmp://s1.media-planet.sk:80/live/reduta
+TV Ruinov,http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+TV Turzovka,rtmp://s1.media-planet.sk:80/live/turzovka
+Wau TV,https://nn.geo.joj.sk/live/wau-index.m3u8

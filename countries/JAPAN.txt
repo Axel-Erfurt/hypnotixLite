@@ -1,0 +1,17 @@
+ANN News,plugin://plugin.video.youtube/play/?video_id=coYw-eVU0Ks
+BSC24,plugin://plugin.video.youtube/play/?video_id=ZeZ049BUy8Q
+CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+Gunma TV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+Hiroshima Weather Information,https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
+Japanet Channel DX,https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+Netchannel KYO,plugin://plugin.video.youtube/play/?video_id=hU9Z1nAN7YQ
+NHK Chinese Vision,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+NTV News24,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+MX Live (Webcam),https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
+Tokyo MX1,https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+Tokyo MX2,https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8

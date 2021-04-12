@@ -1,0 +1,16 @@
+CBTV,plugin://plugin.video.youtube/play/?video_id=PL9zBiizEm0
+CNEX,http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
+CTI TV News,plugin://plugin.video.youtube/play/?video_id=wUPPkSANpyo
+CTS,plugin://plugin.video.youtube/play/?video_id=PQLMD4iHhG8
+Da Ai TV,plugin://plugin.video.youtube/play/?video_id=oV_i3Hsl_zg
+EBC News,plugin://plugin.video.youtube/play/?video_id=63RmMXCd_bQ
+Formosa,plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4
+FTV News,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+Hakka TV,plugin://plugin.video.youtube/play/?video_id=LWwepk1p5kE
+HZTV,plugin://plugin.video.youtube/play/?video_id=eC0uICSnm14
+Indigenous TV,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+Legislative Yuan,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
+Set News,plugin://plugin.video.youtube/play/?video_id=4ZVUmEUFwaY
+SJTV Taiwan,plugin://plugin.video.youtube/play/?video_id=LeM7LHO8tY8
+TTV NEWS,plugin://plugin.video.youtube/play/?video_id=xL0ch83RAK8
+TVBS,plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4

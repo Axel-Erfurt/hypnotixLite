@@ -1,0 +1,8 @@
+Chau TV,http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+Latvijas Radio 1 106.1 FM Latgale,http://5a44e5b800a41.streamlock.net:1935/liveVLR1/mp4:LR1/playlist.m3u8
+Latvijas Radio 3 Klasika,http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
+LTV1,https://ff0000.latnet.media/ltv6/playlist.m3u8
+LTV7,https://ff0000.latnet.media/ltv7/playlist.m3u8
+LTV VISIEM,https://ff0000.latnet.media/ltv9/playlist.m3u8
+Ren TV Baltic,http://ott-cdn.ucom.am/s85/index.m3u8
+TV Net,http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8

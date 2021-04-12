@@ -1,0 +1,70 @@
+A2i TV,https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
+A2i Music,https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
+A2i Naja,https://stream.sen-gt.com/A2iNaija/myStream/chunklist_w59258816.m3u8
+A2i Religion,https://stream.sen-gt.com/A2iReligion/myStream/chunklist_w672043691.m3u8
+Alpe d'Huez,https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+Alsace 20,http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+Antenne Reunion,http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
+Arte France,https://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
+BFM Business,https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8
+BFM Grand Lille,https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+BFM Grand Littoral,https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+BFM Lion,https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
+BFM Paris,https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+Bip TV,https://biptv.tv/live/biptvstream_orig/index.m3u8
+CDirect TV,http://cms-streamaniak.top/Cdirect/CDIRECT/index.m3u8
+D5TV,http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+DBM,https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
+Dici TV,http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
+Dieu TV,https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil%3adieutv.smil/720p-playlist.m3u8
+EMCI TV,https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
+Ere TV,http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
+Fashion TV,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+France 24,https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+France 3 Alpes,https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8
+France 3 Rhone-Alpes,https://edge-1192-ch-gv.filmon.com/live/3890.high.stream/playlist.m3u8
+France Info,https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
+Francophonie,http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+Generations TV,https://edge10.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8?spark=28dc12a7-48b5-4d36-9b5b-c2deb9b70bcb&token=
+Gong TV,http://51.254.215.79/appflux/gong/playlist.m3u8
+Holygod TV,https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/master.m3u8
+ILTV,https://str81.creacast.com/iltv/high/playlist.m3u8
+KTO,https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+La Chaine Normande,http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+LCI,https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+LEEEKO,http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
+MDL,http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+Monaco Info,https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+Mosaik Cristal,plugin://plugin.video.youtube/play/?video_id=dSls9-EKGBI
+MyComedy,https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
+Nancy Web TV,https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
+NRJ Hits,https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
+Obosso TV,https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=
+ONE GOLF,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+Radio Contact,https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+RMC,https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
+RT France,https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
+Sikka TV,plugin://plugin.video.youtube/play/?video_id=_zEUTa4n2n8
+TF 1,https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+TF 1 Series Films,https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+TFX,https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+TMA,http://hls.tmacaraibes.com/live/index.m3u8
+TMC,https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+TV3,https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
+TV5 Monde Info,https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+TV5 Monde Pacifique,https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8
+TV5 Style,https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
+TV7 Bordeaux,plugin://plugin.video.youtube/play/?video_id=t6wgCy7kwPU
+TV7 Colmar,https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+TVPI,http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+TVR,https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+TZiK,https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+viaMirabelle,https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+viaVosges,https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
+D5 TV (FR),http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+DBM (FR),https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
+Generations TV (FR),https://edge10.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8?spark=28dc12a7-48b5-4d36-9b5b-c2deb9b70bcb&token=
+Gong (FR),http://51.254.215.79/appflux/gong/playlist.m3u8
+Nancy Web TV (FR),https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
+NRJ Hits (FR),https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
+Obosso TV (FR),https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=

@@ -1,0 +1,68 @@
+5AAB TV,http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+Amazing Discoveries TV,https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+Assemblee Nationale du Quebec,http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8
+BBC Toronto Gaunda Punjab,http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+Bein Sport Xtra (CA),https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
+Canada One,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+Canadian Arab TV,http://142.112.39.133:8080/catv.mp4
+Canal Savoir,https://hls.savoir.media/live/stream.m3u8
+CBC News,https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
+CCTV,https://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/master.m3u8
+CNTV,https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/master.m3u8
+CPAC (EN),https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
+CPAC (FR),https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
+Deal or no Deal (CA),https://endemol-dealornodeal-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+DryBar Comedy (CA),https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+Dust (CA),https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
+EET TV,https://eu.streamjo.com/eetlive/eettv.m3u8
+EMCI TV,https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
+EWTN Canada,https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
+Francophonie 24,http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+FTF (CA),https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
+Fuel TV (CA),https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+Global Calgary,https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
+Global News National,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+Global Toronto,https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+GurSikh Sabha TV Scarborough,http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+HollyWire (CA),https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+ICI RDI HD,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+ICI Tele HD,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
+IIPC TV,https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
+Insight TV (CA),https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+Inwonder (CA),https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+Kidoodle TV (CA),https://kidoodletv-kdtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+Legislative Assembly of Ontario,http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+Mav TV (CA),https://mavtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+MHZ (CA),https://mhz-samsung-linear-ca.samsung.wurl.com/manifest/playlist.m3u8
+Montreal Greek TV,http://94.130.180.175:8081/live/greektv/playlist.m3u8
+Noovo,https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+NTV Newfoundland,https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
+Ontario Parliamentary Network (EN),http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+Ontario Parliamentary Network (FR),http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+ONNtv Ontario,https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
+Outside TV (CA),https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+Pardesi TV,http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+People are Awesome (CA),https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8
+Players TV (CA),https://playerstv-samsungca.amagi.tv/playlist.m3u8
+PowerNation (CA),https://rtmtv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+Prime Asia TV,http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+Prime Canada TV,http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+QVTV,https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
+Salt + Light Television,https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+Sardari TV,http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+Stingray Naturescape (CA),https://stingray-naturescape-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+TAG TV,http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+Tamil Vision TV,http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+Tastemade (CA),https://ti-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+Tele Quebec,https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+The Design Network (CA),https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
+The Shopping Channel,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+Tele-V,https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+Toronto 360,http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+TV 16 Toronto,http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+TVO Kids,https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+Urdu TV Toronto,http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+VBS,http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
+Waypoint TV (CA),https://waypointtv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+Weatherspy (CA),https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
+World Poker Tour (CA),https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8

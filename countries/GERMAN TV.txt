@@ -1,0 +1,29 @@
+Das Erste HD,https://mcdn.daserste.de/daserste/de/master.m3u8
+ZDF HD,https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+ZDFinfo,https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+ARTE,https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+3Sat,https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+ServusTV HD,https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
+ZDFneo,https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+ONE HD,https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
+Radio Bremen TV HD,https://rbfs-lh.akamaihd.net/i/rb_fs@438960/master.m3u8
+NDR Niedersachsen,https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive
+WDR Koeln,https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
+HR,https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8?set-segment-duration=responsive
+MDR SACHSEN,https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+MDR SACHSEN-ANHALT,https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
+MDR THÜRINGEN,https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
+rbb Berlin,https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
+SWR BW,https://swrbwhls-i.akamaihd.net/hls/live/667638-b/swrbwd/master.m3u8
+SR Fernsehen,https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8?set-segment-duration=responsive
+BR Fernsehen,https://mcdn.br.de/bfs_sued/de/master.m3u8
+ARD-alpha,https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+tagesschau24,https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+Phoenix,https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+WELT,https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+WELT Live Stream,https://eventenc02-lh.akamaihd.net/i/eventenc02_1@379038/index_1_av-p.m3u8?sd=10&dw=0&rebase=on
+Deutsche Welle,https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+Deutsche Welle+,http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
+Sky Sport News HD,https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
+Rocket Beans TV,plugin://plugin.video.youtube/play/?video_id=2zkFIs4Fa24
+Nickelodeon Deutschland (Web),plugin://plugin.video.youtube/play/?video_id=JpuEn_ptP-U

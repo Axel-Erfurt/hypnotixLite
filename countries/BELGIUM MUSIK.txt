@@ -1,0 +1,3 @@
+Q-Music (Webradio),https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
+XITE BE,https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+XITE (BE),https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8

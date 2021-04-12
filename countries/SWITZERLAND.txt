@@ -1,0 +1,31 @@
+Canal 9,https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
+Canal Alpha Jura,http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
+Die Neue Zeit,https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
+Dieu TV,https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist.m3u8
+Energy TV,https://edge10.vedge.infomaniak.com/livecast/ik:energytv/chunklist_w229962190_b3001080.m3u8?spark=2ef26dd4-6c62-4d52-9dcb-b177d141f032&token=
+Kanal 9,https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
+La Tele,https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
+Leman Bleu,https://edge5.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8?spark=88728f76-440d-4265-8f6b-b8a776071e47&token=
+LFM TV,https://edge4.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8?spark=cf45faac-ae15-4c71-92c5-6c3527ed8e0f&token=
+Musig24,https://playback2.akamaized.net/streams/16598383_8687407_lsin7mfbawvyji8z19o_1/master.m3u8?dw=14400&hdnts=exp=1605428280~acl=/streams/16598383_8687407_lsin7mfbawvyji8z19o_1/master.m3u8*~hmac=073ce4b0d92471b2f87e3786620b8bc6eb0c98e131334e32ff9394fa72cc3d71
+One TV,https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
+QS24,http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
+Radio 3i (Webradio),https://livestream.gruppocdt.ch/hls/radio3i.m3u8
+Radio Argovia 90.3 FM Aarau (Webradio),http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8
+Radio Pilatus (Webradio),https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+Radio Pilatus (Webradio),https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+Rouge TV,https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+RTS Couleur 3 (Webradio),https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_2500_av-b.m3u8
+Schweiz 5,https://stream.schweiz5.ch/schweiz52020/stream.m3u8
+Tele 1,https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
+Tele M1 HD,https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
+Telebasel,http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+TeleBarn,https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
+TeleBielingue,https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
+TeleTicino,https://livestream.gruppocdt.ch/hls/teleticino_720p/index.m3u8
+TelezÃ¼rich,https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_4dmq7avs/format/applehttp/protocol/https/a.m3u8
+TVM 3,http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+TVO (CH),https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
+Energy TV (CH),https://edge10.vedge.infomaniak.com/livecast/ik:energytv/chunklist_w229962190_b3001080.m3u8?spark=2ef26dd4-6c62-4d52-9dcb-b177d141f032&token=
+Radio Pilatus (Webradio) (CH),https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+TVM 3 (CH),http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8

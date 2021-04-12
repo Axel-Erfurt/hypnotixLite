@@ -1,0 +1,15 @@
+A+E Crime 360,https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
+Deal or No Deal,https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
+Euronews,https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
+FTF (For the Fans),https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+Game Show Central,https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
+Gusto TV,https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
+Maverick Black Cinema,https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
+Midnight Pulp,https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
+Retro Crush,https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
+Skills + Thrills Channel 1,https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
+Skills + Thrills Channel 2,https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
+Skills + Thrills Channel 3,https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
+The Design Network,https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+Weather Nation,https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+Wipeout Xtra,https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8

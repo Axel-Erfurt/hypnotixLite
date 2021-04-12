@@ -1,0 +1,16 @@
+KCTV - Nordkorea,plugin://plugin.video.youtube/play/?video_id=wSGVaSDgkdY
+All the K-Pop,plugin://plugin.video.youtube/play/?video_id=8zUdwHwuwhQ
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+CBS TV,http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+EBS 1,http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
+EBS 2,http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+EBS e,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBS Kids,rtsp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k
+EBS Plus 1,http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+EBS Plus 2,http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+G1,http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
+GCN,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
+KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+KBS World,plugin://plugin.video.youtube/play/?video_id=4gwqZYZ-OSw
+SBS News,plugin://plugin.video.youtube/play/?video_id=0uwK35Go394
+YTN,http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8

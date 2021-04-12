@@ -1,0 +1,11 @@
+Caca Vision,https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+Canal Macau,http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+Igreja Online,http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
+Kuriakos Cine,http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+Kuriakos Kids,http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+Kuriakos Music,http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+Kuriakos TV,http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+Sobrenatural TV,http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+Porto Canal,https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+TV Fatima,https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
+TV Mana 1,http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8

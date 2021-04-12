@@ -1,0 +1,9 @@
+RTÉ News Now,https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
+Oireachtas TV,https://oirlive.heanet.ie/oireachtas/ngrp:oireachtas.stream_all/chunklist_b1228000.m3u8
+Dáil Éireann,https://oirlive.heanet.ie/dail/ngrp:dail.stream_all/chunklist_b478000.m3u8
+Seanad Éireann,https://oirlive.heanet.ie/seanad/ngrp:seanad.stream_all/chunklist_b1228000.m3u8
+Committee Room 1,https://oirlive.heanet.ie/cr1/ngrp:cr1.stream_all/chunklist_b1228000.m3u8
+Committee Room 2,https://oirlive.heanet.ie/cr2/ngrp:cr2.stream_all/chunklist_b1228000.m3u8
+Committee Room 3,https://oirlive.heanet.ie/cr3/ngrp:cr3.stream_all/chunklist_b1228000.m3u8
+Committee Room 4,https://oirlive.heanet.ie/cr4/ngrp:cr4.stream_all/chunklist_b1228000.m3u8
+TG4 IE,http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8

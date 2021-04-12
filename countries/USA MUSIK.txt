@@ -1,0 +1,18 @@
+30A Music,http://30a-tv.com/music.m3u8
+BaebleMusic,https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
+Black Artist,https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
+Hot Rock TV,https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
+Network  Black Music Artist TV,https://nimble.dashstreams.net/onestudio/blackmusicartist/playlist.m3u8
+STIRR Music,https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
+30A Music (US),http://30a-tv.com/music.m3u8
+BaebleMusic (US),https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
+Black Music Artist TV (US),https://nimble.dashstreams.net/onestudio/blackmusicartist/playlist.m3u8
+Bluegrass 4U (US),https://nimble.dashstreams.net/onestudio/bluegrassmusic4u/playlist.m3u8
+CMC 2 (US),https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+Hot Rock TV (US),https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
+Live Music Replay (US),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=855&deviceId=5873fc21cad696fb37aa9054&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+Radiou TV (US),https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
+Sonus FM TV (US),http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
+Street Music 4U (US),https://nimble.dashstreams.net/onestudio/StreetMusic4U/playlist.m3u8
+STIRR Music (US),https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
+Vevo Pop (US),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
